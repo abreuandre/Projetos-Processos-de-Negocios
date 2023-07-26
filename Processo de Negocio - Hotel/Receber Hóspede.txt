@@ -1,0 +1,12 @@
+
+
+PARTE 1 – Fluxo de ações
+Exercício "Receber hóspede"
+Usando um diagrama de atividades da UML, desenhe o fluxo de ações de um processo “Receber
+hóspede”, que tem a finalidade de fazer o check-in de um hóspede que chega a um hotel e encaminhálo
+para sua acomodação. Quando o hóspede chega à recepção, o recepcionista coleta as informações
+de reserva do hóspede, e em seguida pede para o hóspede preencher um formulário de identificação.
+Enquanto isso ocorre, o mensageiro coleta a bagagem do hóspede e as leva para o quarto. Depois que
+o hóspede termina de preencher o formulário, o recepcionista recebe o pagamento do hóspede, entrega
+as chaves e orienta o hóspede com relação às regras do hotel. Quando o hóspede chega ao quarto, o
+mensageiro dá as orientações finais sobre os serviços oferecidos pelo hotel.
